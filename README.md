@@ -1,4 +1,4 @@
-# 🍔 Cardápio Online
+# 🍔 Delivery Online
 
 ## 📌 Sobre o Projeto
 
