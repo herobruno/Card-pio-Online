@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **Cardápio Online** é um sistema completo desenvolvido para facilitar a gestão de pedidos em lanchonetes, restaurantes e outros estabelecimentos gastronômicos.  
+O **Delivery Online** é um sistema completo desenvolvido para facilitar a gestão de pedidos em lanchonetes, restaurantes e outros estabelecimentos gastronômicos.  
 
 Tendo em vista o **aumento constante das taxas cobradas por aplicativos de delivery**, tanto para **pequenos empreendedores quanto para motoboys**, este projeto foi criado com o objetivo de oferecer uma **alternativa mais acessível, justa e eficiente**.
 
