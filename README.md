@@ -58,6 +58,7 @@ Além disso, o sistema conta com recursos robustos tanto para **clientes**, como
 - Personalização do tempo mínimo e máximo de entrega
 - Personalização da logo
 - Personalização do banner
+- Personalização da  Localização do estabelecimento (Para busca do Produto)
 
 #### 🔧 Habilitar e desabilitar funcionalidades
 - Roleta de descontos
