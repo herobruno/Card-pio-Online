@@ -43,6 +43,7 @@ Além disso, o sistema conta com recursos robustos tanto para **clientes**, como
 ✅ **Convidar Amigos com seu codico para ganhar pontos**  
 ✅ **Avaliar produtos para ganhar pontos**  
 ✅ **Comprando no estabelecimento para ganhar pontos** 
+✅ **Retornar ao Carrinho na Finalização** 
 
 ---
 
@@ -91,6 +92,7 @@ Além disso, o sistema conta com recursos robustos tanto para **clientes**, como
 #### 📋 Gestão de Historico de pedidos
 - Visualizar historico de Pedidos
 - Buscar Pedido Por Nome
+- Exportar os Pedidos (PDF)
 
 
 ---
